@@ -4,7 +4,7 @@
 		var items = item.querySelectorAll('li'),
         current = 0,
         autoUpdate = true,
-        timeTrans = 400000000;
+        timeTrans = 4000;
         
 		//create nav
 		var nav = document.createElement('nav');
